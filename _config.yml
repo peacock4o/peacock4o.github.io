@@ -1,0 +1,23 @@
+# Site settings
+title: "Marko Morrison"
+bye_message: "o/"
+baseurl: "/clyell/"
+url: "https://markomorrison.net"
+disqus: peacock4o
+
+# Header settings
+nick: "peacock4o"
+mail:
+    domain: "gmail"
+    ext: "com"
+source_code:
+    server: "github.com"
+    nick: "ouro-borous"
+blog:
+    server: "markomorrison.net"
+    nick: "peacock4o"
+fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
