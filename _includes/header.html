@@ -5,7 +5,7 @@
     <span class="reserved">char</span> nick[<span class="number">8</span>] = <span class="string">"{{ site.nick }}"</span>;
     </p>
     <p>
-    print(<a href="https://{{ site.source_code.server }}/{{ site.source_code.nick }}" target="_blank"><span class="string">"https://{{ site.source_code.server }}/{{ site.source_code.nick }}"</span></a>)
+    printf(<a href="https://{{ site.source_code.server }}/{{ site.source_code.nick }}" target="_blank"><span class="string">"https://{{ site.source_code.server }}/%s"</span></a>,nick)
     </p>
     <p>
       <span class="reserved">char</span> interest[<span class="number">5</span>] = <span class="string">"cyber"</span>;
