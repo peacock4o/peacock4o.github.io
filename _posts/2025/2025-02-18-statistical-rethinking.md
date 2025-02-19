@@ -12,5 +12,5 @@ tags:
 Check out my notes on Richard McElreath's *Statistical Rethinking* course, which focuses on Bayesian inference and experimental design!
 
 ```
-https://github.com/ouro-borous/Notes/blob/master/bayesian_statistics.md
+https://github.com/peacock4o/Notes/blob/master/bayesian_statistics.md
 ```
