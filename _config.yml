@@ -8,15 +8,16 @@ disqus: peacock4o
 # Header settings
 nick: "peacock4o"
 mail:
-    domain: "gmail"
-    ext: "com"
+    fs: "andrew"
+    domain: "cmu"
+    ext: "edu"
 source_code:
     server: "github.com"
     nick: "peacock4o"
 blog:
     server: "peacock4o.github.io"
     nick: "peacock4o"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+fingerprint_key: "58829B20BB59BDF8F2E0331E23AC1C8074BF029D"
 
 # Build settings
 markdown: kramdown
