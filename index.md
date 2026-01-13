@@ -6,7 +6,7 @@ layout: content
 
 # About
 
-Heyo. I'm an incoming first-year PhD student in the [Dynamic Decision Making (DDM)](https://www.cmu.edu/dietrich/sds/ddmlab/) lab at Carnegie Mellon, advised by the wonderful [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/).
+Heyo. I'm a first-year PhD student in [CyLab](https://www.cylab.cmu.edu/) and [Dynamic Decision Making (DDMLab)](https://www.cmu.edu/dietrich/sds/ddmlab/) at Carnegie Mellon, coadvised by [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/) and [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/).
 
 I help organize CTFs, [defense competitions](https://www.nationalccdc.org/), [cybersecurity clubs](https://uwctf.cs.washington.edu/), and [conferences](https://www.bsidesseattle.com/).
 
@@ -15,9 +15,9 @@ I was an [RSA Security Scholar](https://www.rsaconference.com/rsac-programs/secu
 
 # Academic Interests
 
-Cybersecurity (autonomous attack/defense systems,) computational cognition, multiagent systems, game theory, and reinforcement learning. 
+Autonomous cyber attack/defense systems, multiagent systems, reinforcement learning, and computational cognition. 
 
-Also generally interested in cryptography, usable PETs, and psychology.
+Also generally interested in networking and psychology.
 
 # Non-academic Interests
 
