@@ -14,6 +14,4 @@ As my work and studies progress, I'd like a place to share some cool things I le
 
 This page is very much inspired by [Matt Might's](https://matt.might.net/articles/) incredibly thoughtful blog.
 
-Looking forward hearing from readers :)
-
 -*MM*
